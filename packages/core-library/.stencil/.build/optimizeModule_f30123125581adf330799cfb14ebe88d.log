@@ -1,0 +1,1 @@
+import{p as o,b as t}from"./p-780b24a1.js";export{s as setNonce}from"./p-780b24a1.js";import{g as r}from"./p-e1255160.js";const a=()=>{const s=import.meta.url;const t={};if(s!==""){t.resourcesUrl=new URL(".",s).href}return o(t)};a().then((async o=>{await r();return t([["p-d2879d9f",[[1,"signin-component",{formTitle:[1,"form-title"],email:[32],password:[32]}]]]],o)}));

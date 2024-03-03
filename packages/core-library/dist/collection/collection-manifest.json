@@ -1,0 +1,13 @@
+{
+  "entries": [
+    "components/auth-signin/auth-signin.js",
+    "components/feedback-alert/feedback-alert.js"
+  ],
+  "compiler": {
+    "name": "@stencil/core",
+    "version": "4.12.4",
+    "typescriptVersion": "5.3.3"
+  },
+  "collections": [],
+  "bundles": []
+}
